@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+}
+
+#check-btn{
+  margin-right: 1rem;
+  margin-left: 1rem;
+  padding: 1rem;
+}
+#phone {
+  width: 493px;
+  height: 751px;
+  flex-shrink: 0;
+  
+}
+
